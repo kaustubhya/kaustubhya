@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaustubhya
 - 👀 I’m interested in .developement, DevOps and open source..
 - 🌱 I’m currently learning Data Structures and Algorithms, web dev, and Linux
-- 💞️ I’m looking to collaborate on some basic starter projects of java.
+- 💞️ I’m looking to collaborate on some basic starter projects!
 - 📫 Reach me on - kaustubhyaksd@gmail.com
 - Here are my Social Media links - https://linktr.ee/Kaustubhya_Shukla
 
