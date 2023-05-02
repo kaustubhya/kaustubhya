@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Kaustubhya Shukla</h1>
+<h1 align="center">Hey! I'm Kaustubhya Shukla</h1>
 <h3 align="center">I'm a Student Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhya&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhya" /> </p>
