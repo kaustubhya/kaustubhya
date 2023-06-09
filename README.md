@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaustubhyaksd@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href = "https://linktr.ee/Kaustubhya_Shukla">My Linktree</a></h3>
 <p align="left">
 </p>
 
