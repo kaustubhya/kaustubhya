@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhya" alt="kaustubhya" /></a> </p>
 
-- 🌱 I’m currently learning **React, Linux and Computer Networking**
+- 🌱 I’m currently learning **React, Linux and Tailwind CSS**
 
 - 📫 How to reach me **kaustubhyaksd@gmail.com**
 
