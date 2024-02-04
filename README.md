@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning Full Stack Web Dev and building some side projects on the go.<br>Would love to collaborate on some front-end projects for now.
+## Learning Full Stack Web Dev and building some side projects on the go.<br>Would love to collaborate on some front-end projects for now.
 
 
 ## 🌐 Socials:
